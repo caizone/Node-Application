@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "caizone",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^1.2.11",
+    "socket.io": "^0.9.17"
+  }
 }
