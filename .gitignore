@@ -1,0 +1,14 @@
+.*.swp
+.*.swo
+.DS_Store
+/.vagrant/
+/*/app/storage
+/*/storage/purifier/
+
+/node_modules
+/bower_components
+/build/
+
+
+doc/
+doc.md
